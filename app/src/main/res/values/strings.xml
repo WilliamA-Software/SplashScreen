@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SplashScreen</string>
+    <string name="greeting">Welcome</string>
+
+    <string name="image_option_menu_fab">Option fab menu</string>
+    <string name="clicked_fab_tv">TV Option</string>
+    <string name="clicked_fab_video">VideoCam Option</string>
+</resources>
